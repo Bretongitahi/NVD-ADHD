@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NVD-ADHD</string>
+    <string name="Inattention">Inattention</string>
+    <string name="Hyperactivity">Hyperactivity</string>
+    <string name="Impulsivity">Impulsivity</string>
+    <string name="Organization">Organization</string>
+    <string name="Distractibility">Distractibility</string>
+    <string name="do_you_often_forget_or_lose_important_items_necessary_for_tasks_or_activities">Do you often forget or lose important items necessary for tasks or activities?</string>
+</resources>
